@@ -4,4 +4,4 @@
 DEV=/dev/lirc0
 CONF=./itc.conf
 
-irrecord -d ${DEv} ${CONF}
+irrecord -d $DEV $CONF
